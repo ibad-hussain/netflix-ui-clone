@@ -31,5 +31,4 @@ https://neftlix-replica.netlify.app/
 <br>
 
 ## 🚀 Contact
-- Email: ibadhussain2212@gmail.com
 - LinkedIn: www.linkedin.com/in/ibadhussain
