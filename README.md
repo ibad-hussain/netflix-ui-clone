@@ -26,7 +26,7 @@ This project is a clone of the Netflix landing page, built using **HTML**, **CSS
 ## 🚀 Deployment
 The app is deployed on <b>Vercel</b> and can be accessed via:
 <br>
-https://netfflix-replica.netlify.app/
+https://netflix-ui-replica.vercel.app/
 
 <br>
 
